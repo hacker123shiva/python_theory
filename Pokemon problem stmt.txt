@@ -1,0 +1,15 @@
+1)find the most powerful pokemon
+
+2)find the most powerful and weakest pokenon acordimg to type1 category
+
+3)enter a pokemon name and find strongest and weakest in that same cotegory
+
+4)list of all legendary pokemon
+
+5)enter name of pokemon show its details
+
+6)create separate dataframe for each type of pokemon (base of type 1)  
+example water pokemon in different csv and fire in different and so on
+
+7)enter name of your pokemon and let computer choose another pokemon of same type randomly 
+one with highest hp will win
